@@ -1,0 +1,29 @@
+.data-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-color: #262f38;
+  padding: 30px;
+  margin: 30px;
+  border-bottom: 1px solid gray;
+}
+
+.title {
+  color: white;
+  font-size: 22px;
+  font-family: 'Bree Serif';
+  font-weight: 100;
+}
+
+.body {
+  color: white;
+}
+
+@media screen and (min-width: 768px) {
+  .data-cont {
+    width: 300px;
+    margin: 15px;
+  }
+}
