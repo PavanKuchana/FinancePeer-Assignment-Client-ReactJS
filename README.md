@@ -15,3 +15,9 @@ Tasks:
 Note:
 
  Preferably use Django(for backend), React(for frontend) and PostgreSQL(database), if you have never used any from the above stack feel free to use what you are comfortable with.  Design proper database tables and structures wherever required.  Package the entire project, add a readme file for installation guidelines.  Once completed upload project on GIT and share GIT repo with us.  Performing Unit testing is a plus.
+
+
+CREDENTIALS :
+
+     Username  :  david 
+     Password  :  the_miller@23
